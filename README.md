@@ -1,6 +1,1 @@
-resume
-======
-
-[View it here](https://nuterian.github.io/resume/)
-
-Print the page to get a copy
+**Resume:** [Online](https://selahaddinislamoglu.github.io/resume) or [PDF](https://github.com/selahaddinislamoglu/resume/raw/master/Selahaddin-Islamoglu-Resume.pdf)  
