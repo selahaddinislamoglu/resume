@@ -1,1 +1,1 @@
-**Resume:** [Online](https://selahaddinislamoglu.github.io/resume) or [PDF](https://selahaddinislamoglu.github.io/resume/resume.pdf)  
+**Resume:** [Online](https://selahaddinislamoglu.github.io/resume) or [PDF](https://github.com/selahaddinislamoglu/resume/raw/master/Selahaddin-Islamoglu-Resume.pdf)  

@@ -191,6 +191,13 @@ ul.skills li:last-child {
   margin-bottom: 1cm;*/
 }
 
+@media print {
+  .no-print {
+    display: none;
+    visibility: hidden;
+  }
+}
+
 /*
 @media print {
   .page {
